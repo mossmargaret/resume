@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+    font-family:Kalam;
+}
+
+ul {
+    text-align:left;
+}
+
+h1 {
+    text-align:center;
+}
+
+h3{
+    text-decoration:underline;
+}
+
+p {
+    font-style:italic;
+}
+
